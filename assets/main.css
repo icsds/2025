@@ -127,3 +127,13 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     table.footer{font-size:0.33em;}
 }
 
+.items-center {
+    display: flex;
+    justify-content: center;
+}
+
+.paypal {
+    background: oklch(0.932 0.032 255.585);
+    padding: 0px 16px;
+    border-radius: 8px;
+}
