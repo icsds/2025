@@ -127,13 +127,61 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     table.footer{font-size:0.33em;}
 }
 
+/* Custom modifications to the design */
+.alert {
+    display: block;
+    background: #b8860b;
+    color: oklch(0.967 0.003 264.542);
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: 0.046875em;
+    padding: 12px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+}
+
+.grid {
+    display: flex;
+    gap: 16px;
+}
+
+.pricing {
+    max-width: max-content;
+    margin-bottom: 24px;
+}
+
+.pricing, .pricing th, .pricing td {
+    border: 1px solid oklch(0.928 0.006 264.531);
+    border-collapse: collapse;
+}
+
+.pricing th {
+    background: oklch(0.928 0.006 264.531);
+    font-weight: bold;
+}
+
+.pricing th, .pricing td {
+    padding: 8px 16px;
+}
+
+ul.bulleted {
+    list-style-type: disc;
+    margin-left: 24px;
+    width: auto;
+}
+
+ul.bulleted li {
+    list-style-type: disc;
+    display: list-item;
+}
+
 .items-center {
     display: flex;
     justify-content: center;
 }
 
 .paypal {
-    background: oklch(0.932 0.032 255.585);
+    background: oklch(0.928 0.006 264.531);
     padding: 0px 16px;
-    border-radius: 8px;
+    border-radius: 4px;
 }

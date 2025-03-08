@@ -14,48 +14,69 @@
     <meta name="KeyWords" content="Conference">
     <title>Program | Conference Template</title>
 </head>
-
 <body>
-
     <div class="banner">
         <img src="assets/Vancouver.jpeg" alt="Conference Template Banner" style="width: 98%">
     </div>
 
+    <table class="navigation">
+        <tr>
+            <td class="navigation">
+                <a title="Conference Home Page" href=".">Home</a>
+            </td>
+            <td class="navigation">
+                <a title="Register for the Conference" href="registration">Registration</a>
+            </td>
+        </tr>
+    </table>
 
-<table class="navigation">
-    <tr>
-        <td class="navigation">
-            <a title="Conference Home Page" href=".">Home</a>
-        </td>
-        <td class="navigation">
-            <a title="Register for the Conference" href="registration">Registration</a>
-        </td>
-    </tr>
-</table>
+    <h2>Registration</h2>
+    <span class="alert">Registration will open on April 1, and close on May 30, 2025.</span>
+    <div class="grid">
+        <div>
+            <ul class="bulleted">
+                <li>Payment of the registration fee is mandatory for all participants.</li>
+                <li>All fees are listed in Canadian dollars (CAD).</li>
+                <li>A  full refund, excluding PayPal service fees, will be issued for cancellations requested on or before May 1, 2025. No refunds will be provided for requests submitted after this date.</li>
+            </ul>
 
+            <table class="pricing">
+                <tr>
+                    <th>Category</th>
+                    <th>Before May 1, 2025</th>
+                    <th>After May 1, 2025</th>
+                </tr>
+                <tr>
+                    <td>Faculty/Industry</td>
+                    <td>$380</td>
+                    <td>$480</td>
+                </tr>
+                <tr>
+                    <td>Students/Postdocs</td>
+                    <td>$180</td>
+                    <td>$280</td>
+                </tr>
+            </table>
 
-<h2>Registration will start on April 1, 2025. </h2>
-
-<p>
-    Eearly registration: April 1, 2025 - April 30, 2025
-    Eearly registration fee is $180 for students/postdocs, $380 for faculty/industry. 
-</p>
-
-<p>
-    Late registration: May 1, 2025 - May 30, 2025
-    Late registration fee is $280 for students/postdocs, $480 for faculty/industry and $100 for retirees. 
-</p>
-
-<script src="https://www.paypal.com/sdk/js?client-id=BAAQpEQif8asseuJZVELrTwvyHMpDpSBGLRkSsq55il5gznlub-xSjrvY5XNMdKt2W6q3Gii8sHZZIpFbI&components=hosted-buttons&disable-funding=venmo&currency=CAD"></script>
-<div class="items-center">
-    <div id="paypal-container-A5XAFJY8NBS8W" class="paypal"></div>
-</div>
-<script>
-    paypal.HostedButtons({
-        hostedButtonId: "A5XAFJY8NBS8W",
-    }).render("#paypal-container-A5XAFJY8NBS8W")
-</script>
-
+            <ul class="bulleted">
+                <li>A receipt will be sent to you via email. If you require a formal receipt, please contact Jiguo Cao at <a
+                        href="mailto:jiguo_cao@sfu.ca">jiguo_cao@sfu.ca</a>.</li>
+                <li>For any further questions or inquiries, please reach out to Dr. Jiguo Cao at <a
+                        href="mailto:jiguo_cao@sfu.ca">jiguo_cao@sfu.ca</a>.</li>
+            </ul>
+        </div>
+        <div>
+            <script src="https://www.paypal.com/sdk/js?client-id=BAAQpEQif8asseuJZVELrTwvyHMpDpSBGLRkSsq55il5gznlub-xSjrvY5XNMdKt2W6q3Gii8sHZZIpFbI&components=hosted-buttons&disable-funding=venmo&currency=CAD"></script>
+            <div class="items-center">
+                <div id="paypal-container-A5XAFJY8NBS8W" class="paypal"></div>
+            </div>
+            <script>
+                paypal.HostedButtons({
+                    hostedButtonId: "A5XAFJY8NBS8W",
+                }).render("#paypal-container-A5XAFJY8NBS8W")
+            </script>
+        </div>
+    </div>
 </body>
 </html>
 
