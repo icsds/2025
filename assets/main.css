@@ -159,6 +159,10 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     display: block;
 }
 
+.mt {
+    margin-top: 64px;
+}
+
 .person-image {
     height: 256px;
 }
