@@ -107,7 +107,8 @@ const speakers = [
     ["Giseon Heo","University of Alberta","Canada"],
     ["Jiatao Zhong","University of British Columbia, Okanagan","Canada"],
     ["Haiyi Shi","Simon Fraser University","Canada"],
-    ["Ann Smith","University of Huddersfield","United Kingdom"]
+    ["Ann Smith","University of Huddersfield","United Kingdom"],
+    ["Olivier Thas","Hasselt University","Belgium"]    
 ],
     element = document.getElementById("confirmed-speakers")
 
