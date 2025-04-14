@@ -11,6 +11,7 @@ const speakers = [
     ["Julie Zhou","University of Victoria","Canada"],
     ["Longhai Li","University of Saskatchewan","Canada"],
     ["Xuewen Lu","University of Calgary","Canada"],
+    ["Clara Xing Wang","Illinois State University","United States"],
     ["Lang Wu","University of British Columbia","Canada"],
     ["Wenqing He","University of Western Ontario","Canada"],
     ["John Braun","University of British Columbia, Okanagan","Canada"],
