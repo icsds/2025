@@ -925,14 +925,12 @@ const sessions = [
 let html = ""
 for (let i = 0; i < sessions.length; i++) {
     const {invitedTalkSession, sessionTitle, chair, organizedBy, time, location, speakers} = sessions[i]
-    html += `<h2>${invitedTalkSession ? `Invited Talk Session ${invitedTalkSession}: ` : ''}${sessionTitle}</h2><p>Chair: ${chair}${organizedBy ? `, Organized by: ${organizedBy}` : ''}<br>${time} ${location}</p>`
+    html += `<h3>${invitedTalkSession ? `Invited Talk Session ${invitedTalkSession}: ` : ''}${sessionTitle}</h3><p>Chair: ${chair}${organizedBy ? `, Organized by: ${organizedBy}` : ''}<br>${time} ${location}</p>`
 
     for (let j = 0; j < speakers.length; j++) {
         const {name, affiliation, talkTitle} = speakers[j]
         html += `<p><i>${name}, ${affiliation}</i><br><b>${talkTitle}</b></p>`
     }
-
-    // html += `</ul>`
 }
 
 element.innerHTML = html
