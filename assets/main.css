@@ -91,7 +91,7 @@ th,td{
 .year{color: #505050; font-size:0.67em; font-weight: lighter;}
 
 /* Navigation Links (Home, Registration, etc) */
-.navigation {display: flex; justify-content: space-between;}
+.navigation {display: flex; justify-content: space-between; width: auto}
 .navigation > li {font-size:1.67em;}
 .navigation > li a {text-decoration:none;}
 
@@ -224,4 +224,41 @@ ul.bulleted li {
 
 .speakers li {
     margin-bottom: 16px;
+}
+
+/* Figure */
+.figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.figure img {
+    max-width: 540px;
+}
+
+.figure span {
+    display: block;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.keynote-speaker {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+#sessions p {
+    margin: 12px auto 12px auto;
+}
+
+#sessions h2 {
+    line-height: 48px!important;
+    text-decoration: underline;
 }
