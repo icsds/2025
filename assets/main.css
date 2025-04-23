@@ -258,7 +258,7 @@ ul.bulleted li {
     margin: 12px auto 12px auto;
 }
 
-#sessions h2 {
-    line-height: 48px!important;
+#sessions h3 {
+    line-height: 32px!important;
     text-decoration: underline;
 }
