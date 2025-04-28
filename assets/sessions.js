@@ -21,6 +21,11 @@ const sessions = [
                 "name": "Wenqing He",
                 "affiliation": "University of Western Ontario",
                 "talkTitle": "A unified framework of analyzing missing data and variable selection using regularized likelihood"
+            },
+            {
+                "name": "Zhenhua Lin",
+                "affiliation": "National University of Singapore",
+                "talkTitle": "Two-sample distribution tests in high dimensions via max-sliced Wasserstein distance and bootstrapping"
             }
         ]
     },
@@ -59,7 +64,7 @@ const sessions = [
         "speakers": [
             {
                 "name": "Margaret Stedman",
-                "affiliation": "University of Stanford",
+                "affiliation": "Stanford University",
                 "talkTitle": "Esimating Life Years Gained from Transplant using Flexible Parametric Survival Models"
             },
             {
@@ -251,11 +256,6 @@ const sessions = [
                 "name": "John Thompson",
                 "affiliation": "University of British Columbia, Okanagan",
                 "talkTitle": "Mixed-type fuzzy clustering using kernel distance metrics"
-            },
-            {
-                "name": "Zhenhua Lin",
-                "affiliation": "National University of Singapore",
-                "talkTitle": "Two-sample distribution tests in high dimensions via max-sliced Wasserstein distance and bootstrapping"
             }
         ]
     },
@@ -329,7 +329,7 @@ const sessions = [
         "speakers": [
             {
                 "name": "Tanya Kovalova",
-                "affiliation": "McMaster University",
+                "affiliation": "Population Health Research Institute",
                 "talkTitle": "Sharing alpha during interim analysis with multiple primary outcomes."
             },
             {
@@ -736,11 +736,6 @@ const sessions = [
                 "name": "Lloyd T. Elliott",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Statistical considerations for consortia and meta-analysis"
-            },
-            {
-                "name": "Nazrul Islam",
-                "affiliation": "University of Southampton",
-                "talkTitle": "Data Science best practices in large linked electronic health databases: experience of the whole population cohort of 56 million people in England"
             },
             {
                 "name": "Maurice O'Connell",
