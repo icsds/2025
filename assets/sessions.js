@@ -256,6 +256,11 @@ const sessions = [
                 "name": "John Thompson",
                 "affiliation": "University of British Columbia, Okanagan",
                 "talkTitle": "Mixed-type fuzzy clustering using kernel distance metrics"
+            },
+            {
+                "name": "Olivier Thas",
+                "affiliation": "Hasselt University, Belgium",
+                "talkTitle": "Adaptive Large Scale Hypothesis Tests"
             }
         ]
     },
@@ -826,11 +831,6 @@ const sessions = [
                 "name": "Elizabeth Chou",
                 "affiliation": "National Chengchi University, Taiwan",
                 "talkTitle": "Improving Neural Network Performance with PCA-Based Dimensionality Reduction"
-            },
-            {
-                "name": "Olivier Thas",
-                "affiliation": "Hasselt University, Belgium",
-                "talkTitle": "Adaptive Large Scale Hypothesis Tests"
             },
             {
                 "name": "Bahadir Yüzbaşı",
