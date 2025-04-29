@@ -841,6 +841,11 @@ const sessions = [
                 "name": "Boyi Hu",
                 "affiliation": "Columbia University",
                 "talkTitle": "TPClust: Temporal Profile-Guided Disease Subtyping Using High-Dimensional Omics Data"
+            },
+            {
+                "name": "Haiyi Shi",
+                "affiliation": "Simon Fraser University",
+                "talkTitle": "The condition numbers of stochastic inverse problems"
             }
         ]
     },
@@ -906,11 +911,6 @@ const sessions = [
                 "name": "Danny Santano",
                 "affiliation": "The University of British Columba, Okanagan",
                 "talkTitle": "Detecting Financial Market Crashes with Density Ratio Estimation: A Sliding Window Approach for Distribution Shift Analysis"
-            },
-            {
-                "name": "Haiyi Shi",
-                "affiliation": "Simon Fraser University",
-                "talkTitle": "The condition numbers of stochastic inverse problems"
             }
         ]
     }
