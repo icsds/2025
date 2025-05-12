@@ -48,6 +48,11 @@ const sessions = [
                 "talkTitle": "Quantifying Variability in Fire Spread Using Image Segmentation and Statistical Modeling"
             },
             {
+                "name": "Shunpu Zhang",
+                "affiliation": "University of Central Florida",
+                "talkTitle": "More powerful test procedures for multiple hypothesis testing"
+            },
+            {
                 "name": "Ken Peng",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Evaluating COVID-19 Hospitalization Risk Using Wastewater Viral Signals: A Multi-State Model Approach"
@@ -431,6 +436,11 @@ const sessions = [
                 "name": "Thierry Chekouo Tekougang",
                 "affiliation": "University of Minnesota",
                 "talkTitle": "A non-parametric Integrative Bayesian Approach for Variable Selection and Prediction"
+            },
+            {
+                "name": "Zhou Lan",
+                "affiliation": "Brigham and Women's Hospital, Havard Medical School",
+                "talkTitle": "Fiber Microstructure Quantile (FMQ) Regression: A Novel Statistical Approach for Analyzing White Matter Bundles from Periphery to Core"
             },
             {
                 "name": "Fatemeh Mahmoudi",
