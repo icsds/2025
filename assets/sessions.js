@@ -334,7 +334,7 @@ const sessions = [
         "invitedTalkSession": null,
         "chair": "TBA",
         "organizedBy": null,
-        "time": "Monday, June 23 15:40-17:20",
+        "time": "Monday, June 23 15:40-17:25",
         "location": "HC1315",
         "speakers": [
             {
@@ -346,6 +346,11 @@ const sessions = [
                 "name": "Roshni Sahoo",
                 "affiliation": "Stanford University",
                 "talkTitle": "Learning from a Biased Sample"
+            },
+            {
+                "name": "Sadra Nejati",
+                "affiliation": "University of British Columbia",
+                "talkTitle": "Adjustable Robust Optimization Reformulations for Support Vector Machines"
             },
             {
                 "name": "Edward Yalley",
@@ -361,6 +366,11 @@ const sessions = [
                 "name": "Guilherme Lopes de Oliveira",
                 "affiliation": "McGill University and Federal Center for Technological Education of Minas Gerais (CEFET-MG), Brazil",
                 "talkTitle": "Addressing Underregistration in Epidemiological Data: A Bayesian Random-Censoring Poisson-Logistic Model"
+            },
+             {
+                "name": "Deepak Prajapati",
+                "affiliation": "Indian Institute Of Management Lucknow",
+                "talkTitle": "Two Sample Bayesian Acceptance Sampling Plan"
             }
         ]
     },
@@ -638,9 +648,9 @@ const sessions = [
                 "talkTitle": "A Kernelized Similarity Learning Framework for Clustering Mixed-Type Data with Applications to Spectral Clustering"
             },
             {
-                "name": "Richard Yan",
-                "affiliation": "Simon Fraser University",
-                "talkTitle": "A Generalized Phase I/II Dose Optimization Trial Design With Multi‐Categorical and Multi‐Graded Outcomes"
+                "name": "Yao Zhao",
+                "affiliation": "Temple University",
+                "talkTitle": "An Efficient Estimation of Functional Structural Equation Model"
             }
         ]
     },
@@ -823,15 +833,16 @@ const sessions = [
                 "talkTitle": "Numerical /statistical modeling: Impacts of extreme climate events on under the age of 5 year old children over india"
             },
             {
-                "name": "Saadia Masood",
-                "affiliation": "PMAS-Arid Agriculture University Rawalpindi, Pakistan",
-                "talkTitle": "Estimation of the Finite Population Median Using Robust Auxiliary Variable Measures"
+                "name": "Shayan Razmi",
+                "affiliation": "University of British Columbia",
+                "talkTitle": "Prediction of Alzheimer’s disease using CNN networks"
             },
             {
-                "name": "Siying Ma",
-                "affiliation": "Simon Fraser University",
-                "talkTitle": "Data-efficient Operator Learning based on Fundamental Physics Principles"
+                "name": "Saeed Aldahmani",
+                "affiliation": "UAEU College of Business and Economics",
+                "talkTitle": "An Optimal Random Projection k Nearest Neighbours Ensemble via Extended Neighbourhood Rule for Binary Classification"
             }
+            
         ]
     },
     {
@@ -926,6 +937,11 @@ const sessions = [
                 "name": "Danny Santano",
                 "affiliation": "The University of British Columba, Okanagan",
                 "talkTitle": "Detecting Financial Market Crashes with Density Ratio Estimation: A Sliding Window Approach for Distribution Shift Analysis"
+            },
+            {
+                "name": "Saadia Masood",
+                "affiliation": "PMAS-Arid Agriculture University Rawalpindi, Pakistan",
+                "talkTitle": "Estimation of the Finite Population Median Using Robust Auxiliary Variable Measures"
             }
         ]
     }
