@@ -226,6 +226,11 @@ const sessions = [
                 "name": "Yueyang Han",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Testing the Effectiveness of Treatment for Cancers for which the Endpoint is Survival Using Bayesian Subgroup Analysis"
+            },
+            {
+                "name": "Richard Yan",
+                "affiliation": "Simon Fraser University",
+                "talkTitle": "A Generalized Phase I/II Dose Optimization Trial Design With Multi‐Categorical and Multi‐Graded Outcomes"
             }
         ]
     },
@@ -825,7 +830,7 @@ const sessions = [
         "chair": "TBA",
         "organizedBy": null,
         "time": "Wednesday, June 25 15:40-17:20",
-        "location": "HC1700 Labatt Hall",
+        "location": "HC1315",
         "speakers": [
             {
                 "name": "Elizabeth Chou",
@@ -855,7 +860,7 @@ const sessions = [
         "chair": "TBA",
         "organizedBy": null,
         "time": "Wednesday, June 25 15:40-17:20",
-        "location": "HC1315",
+        "location": "HC1700 Labatt Hall",
         "speakers": [
             {
                 "name": "Giseon Heo",
