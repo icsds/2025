@@ -280,22 +280,22 @@ const sessions = [
             {
                 "name": "Benjamin Bloem-Reddy",
                 "affiliation": "University of British Columbia",
-                "talkTitle": "TBA"
+                "talkTitle": "Randomization Tests for Conditional Group Symmetry"
             },
             {
                 "name": "Andrew McCormack",
                 "affiliation": "University of Alberta",
-                "talkTitle": "Functional Kalman Filtering and Smoothing for Accelerometer Data"
+                "talkTitle": "The Unbiasedness Threshold"
             },
             {
                 "name": "Pardis Semnani",
                 "affiliation": "University of British Columbia",
-                "talkTitle": "TBA"
+                "talkTitle": "Parameter Estimation in Time-series Data Using Signature Tensors"
             },
             {
                 "name": "Adam Kashlak",
                 "affiliation": "University of Alberta",
-                "talkTitle": "TBA"
+                "talkTitle": "Functional Kalman Filtering and Smoothing for Accelerometer Data"
             }
         ]
     },
