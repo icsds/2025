@@ -223,11 +223,6 @@ const sessions = [
                 "talkTitle": "TODO: A Triple-Outcome Double-Criterion Optimal Design for Dose Monitoring-and-Optimization in Multi-Dose Randomized Trials"
             },
             {
-                "name": "Quang Vuong",
-                "affiliation": "Core Clinical Science",
-                "talkTitle": "Getting Ready for the Estimands Framework: Simulation-Guided Designs with Illness-Death Models to Explore Trade-Offs in Cancer Trials with Treatment Switching"
-            },
-            {
                 "name": "Yueyang Han",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Testing the Effectiveness of Treatment for Cancers for which the Endpoint is Survival Using Bayesian Subgroup Analysis"
