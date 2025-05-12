@@ -741,6 +741,11 @@ const sessions = [
                 "name": "Maurice O'Connell",
                 "affiliation": "University of Manchester",
                 "talkTitle": "Causal machine learning methods and sequential target trial emulation for dynamic and static treatment strategies deprescribing medications in a polypharmacy population using electronic health records."
+            },
+              {
+                "name": "Piaomu Liu",
+                "affiliation": "Bentley University",
+                "talkTitle": "Analyzing Organizational Risks and Responses to Data Breaches"
             }
         ]
     },
