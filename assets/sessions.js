@@ -894,11 +894,6 @@ const sessions = [
                 "talkTitle": "Allele-frequency estimation and ancestry informative marker identification via retrospective regression"
             },
             {
-                "name": "Tiantian Yang",
-                "affiliation": "University of Idaho",
-                "talkTitle": "An Interpretable Graph Neural Network for Disease Classification with Multi-Omics Data"
-            },
-            {
                 "name": "Jingxue Feng",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "A Switching State-Space Transmission Model for Tracking Epidemics and Assessing Interventions"
