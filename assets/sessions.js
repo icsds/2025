@@ -623,11 +623,6 @@ const sessions = [
         "location": "HC1315",
         "speakers": [
             {
-                "name": "Nkechi Grace Okoacha",
-                "affiliation": "Pan-Atlantic University, Lagos, Nigeria",
-                "talkTitle": "Power-Lindley Generalized Pareto Distribution: A New Approach for Modeling Heavy-Tailed Data"
-            },
-            {
                 "name": "Rajitha Senanayake",
                 "affiliation": "McMaster University",
                 "talkTitle": "repSpat – A Nonparametric Framework for Repeated Spatial Clustering"
@@ -651,6 +646,16 @@ const sessions = [
                 "name": "Yao Zhao",
                 "affiliation": "Temple University",
                 "talkTitle": "An Efficient Estimation of Functional Structural Equation Model"
+            },
+            {
+                "name": "Nkechi Grace Okoacha",
+                "affiliation": "Pan-Atlantic University, Lagos, Nigeria",
+                "talkTitle": "Power-Lindley Generalized Pareto Distribution: A New Approach for Modeling Heavy-Tailed Data"
+            },
+            {
+                "name": "Kavita Rathod",
+                "affiliation": "Veer Narmad Souith Gujarat University, Surat,India",
+                "talkTitle": "Estimation of regression coefficients for finite population under two stage sampling"
             }
         ]
     },
@@ -813,6 +818,21 @@ const sessions = [
         "location": "HC1325",
         "speakers": [
             {
+                "name": "Jesus E. Vazquez",
+                "affiliation": "University of North Carolina at Chapel Hill",
+                "talkTitle": "Robust Estimation for Longitudinal Models Indexed by Time to Event"
+            },
+            {
+                "name": "Shayan Razmi",
+                "affiliation": "University of British Columbia",
+                "talkTitle": "Prediction of Alzheimer’s disease using CNN networks"
+            },
+            {
+                "name": "Hedayat Fathi",
+                "affiliation": "Université Laval",
+                "talkTitle": "Selection of functional predictors and smooth coefficient estimation for scalar-on-function regression models"
+            },
+            {
                 "name": "Ling Xue",
                 "affiliation": "The University of British Columbia-Okanagan",
                 "talkTitle": "Spline-based Gaussian Cluster-Weighted Models"
@@ -823,19 +843,9 @@ const sessions = [
                 "talkTitle": "Teaching Multiple Regression: A Review"
             },
             {
-                "name": "Hedayat Fathi",
-                "affiliation": "Université Laval",
-                "talkTitle": "Selection of functional predictors and smooth coefficient estimation for scalar-on-function regression models"
-            },
-            {
                 "name": "Ruchi Singh Parihar",
                 "affiliation": "Christ University, India",
                 "talkTitle": "Numerical /statistical modeling: Impacts of extreme climate events on under the age of 5 year old children over india"
-            },
-            {
-                "name": "Shayan Razmi",
-                "affiliation": "University of British Columbia",
-                "talkTitle": "Prediction of Alzheimer’s disease using CNN networks"
             },
             {
                 "name": "Saeed Aldahmani",
@@ -933,11 +943,21 @@ const sessions = [
                 "affiliation": "The University of British Columba, Okanagan",
                 "talkTitle": "Detecting Financial Market Crashes with Density Ratio Estimation: A Sliding Window Approach for Distribution Shift Analysis"
             },
+             {
+                "name": "Sankhapali Polgolla",
+                "affiliation": "University of Calgary",
+                "talkTitle": "Identifiability and a Robust Estimation of Semiparametric Location-Scale Mixture Models"
+            },
+            {
+                "name": "Cristian Oliva Aviles",
+                "affiliation": "Genentech Inc.",
+                "talkTitle": "Tolerance Intervals for Unbalanced Linear Mixed Models"
+            },
             {
                 "name": "Saadia Masood",
                 "affiliation": "PMAS-Arid Agriculture University Rawalpindi, Pakistan",
                 "talkTitle": "Estimation of the Finite Population Median Using Robust Auxiliary Variable Measures"
-            }
+            }         
         ]
     }
 ],
