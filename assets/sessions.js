@@ -587,7 +587,7 @@ const sessions = [
     {
         "sessionTitle": "Time Series and Financial Modeling",
         "invitedTalkSession": 19,
-        "chair": "TBA",
+        "chair": "Bingfan Liu",
         "organizedBy": null,
         "time": "Tuesday, June 24 15:40-17:20",
         "location": "HC1325",
