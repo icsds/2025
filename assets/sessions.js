@@ -617,7 +617,7 @@ const sessions = [
     {
         "sessionTitle": "Contributed Session 2: Tuesday",
         "invitedTalkSession": null,
-        "chair": "TBA",
+        "chair": "Matthew Parker",
         "organizedBy": null,
         "time": "Tuesday, June 24 15:40-17:20",
         "location": "HC1315",
