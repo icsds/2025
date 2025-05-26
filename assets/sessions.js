@@ -332,7 +332,7 @@ const sessions = [
     {
         "sessionTitle": "Contributed Session 1: Monday",
         "invitedTalkSession": null,
-        "chair": "TBA",
+        "chair": "Samir Arora",
         "organizedBy": null,
         "time": "Monday, June 23 15:40-17:25",
         "location": "HC1315",
@@ -913,7 +913,7 @@ const sessions = [
     {
         "sessionTitle": "Contributed Session 4: Wednesday",
         "invitedTalkSession": null,
-        "chair": "TBA",
+        "chair": "Muye Nanshan",
         "organizedBy": null,
         "time": "Wednesday, June 25 15:40-17:20",
         "location": "HC1325",
