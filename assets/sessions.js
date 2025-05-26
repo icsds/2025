@@ -242,7 +242,7 @@ const sessions = [
     {
         "sessionTitle": "Statistical Learning and Dimensionality Reduction",
         "invitedTalkSession": 9,
-        "chair": "TBA",
+        "chair": "Joan Hu",
         "organizedBy": null,
         "time": "Monday, June 23 15:40-17:20",
         "location": "HC1700 Labatt Hall",
