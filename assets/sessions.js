@@ -782,7 +782,7 @@ const sessions = [
     {
         "sessionTitle": "Modeling in Natural and Physical Sciences and Engineering",
         "invitedTalkSession": 24,
-        "chair": "TBA",
+        "chair": "Owen Ward",
         "organizedBy": null,
         "time": "Wednesday, June 25 13:30-15:10",
         "location": "HC1315",
