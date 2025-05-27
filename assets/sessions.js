@@ -497,7 +497,7 @@ const sessions = [
     {
         "sessionTitle": "Innovations in Statistical Theory, Design, and Applications",
         "invitedTalkSession": 16,
-        "chair": "TBA",
+        "chair": "Jean-François Bégin",
         "organizedBy": null,
         "time": "Tuesday, June 24 13:30-15:10",
         "location": "HC1325",
