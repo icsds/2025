@@ -152,7 +152,7 @@ const sessions = [
     {
         "sessionTitle": "Statistical Imaging and Vision",
         "invitedTalkSession": 6,
-        "chair": "TBA",
+        "chair": "Bahadır YÜZBAŞI",
         "organizedBy": null,
         "time": "Monday, June 23 13:30-15:10",
         "location": "HC1520",
