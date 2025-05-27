@@ -302,7 +302,7 @@ const sessions = [
     {
         "sessionTitle": "Functional and Longitudinal Modeling",
         "invitedTalkSession": 11,
-        "chair": "TBA",
+        "chair": "Yidong Zhou",
         "organizedBy": null,
         "time": "Monday, June 23 15:40-17:20",
         "location": "HC1325",
@@ -377,7 +377,7 @@ const sessions = [
     {
         "sessionTitle": "Variance Estimation and Statisical Inference",
         "invitedTalkSession": 12,
-        "chair": "TBA",
+        "chair": "Alex Stringer",
         "organizedBy": null,
         "time": "Tuesday, June 24 10:00-11:40",
         "location": "HC1700 Labatt Hall",
@@ -465,9 +465,9 @@ const sessions = [
         ]
     },
     {
-        "sessionTitle": "Advanced Statistical Modeling for Complex Time-to-Event and Spatial-Temperal Data",
+        "sessionTitle": "Advanced Statistical Modeling for Complex Time-to-Event and Spatial-Temporal Data",
         "invitedTalkSession": 15,
-        "chair": "TBA",
+        "chair": "Yiming Tang",
         "organizedBy": null,
         "time": "Tuesday, June 24 13:30-15:10",
         "location": "HC1700 Labatt Hall",
