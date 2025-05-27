@@ -752,7 +752,7 @@ const sessions = [
     {
         "sessionTitle": "Clinical Study Design and Meta-Analysis",
         "invitedTalkSession": 23,
-        "chair": "TBA",
+        "chair": "Lin Zhang",
         "organizedBy": null,
         "time": "Wednesday, June 25 13:30-15:10",
         "location": "HC1700 Labatt Hall",
@@ -888,7 +888,7 @@ const sessions = [
     {
         "sessionTitle": "Statistical Genetics, Disease, and Population Modeling",
         "invitedTalkSession": 26,
-        "chair": "TBA",
+        "chair": "Lloyd T. Elliott",
         "organizedBy": null,
         "time": "Wednesday, June 25 15:40-17:20",
         "location": "HC1700 Labatt Hall",
