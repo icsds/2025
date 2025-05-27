@@ -557,7 +557,7 @@ const sessions = [
     {
         "sessionTitle": "Bayesian Models for Complex Data Structures",
         "invitedTalkSession": 18,
-        "chair": "TBA",
+        "chair": "David Stenning",
         "organizedBy": null,
         "time": "Tuesday, June 24 15:40-17:20",
         "location": "HC1700 Labatt Hall",
