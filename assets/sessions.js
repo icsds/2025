@@ -392,10 +392,10 @@ const sessions = [
                 "affiliation": "University of Manitoba",
                 "talkTitle": "Regularized Estimation of covariance matrix and error variance in high-dimensional models"
             },
-            {
-                "name": "Tao Wang",
-                "affiliation": "University of Victoria",
-                "talkTitle": "Distributed Mode Learning"
+             {
+                "name": "Li Xing",
+                "affiliation": "University of Saskatchewan",
+                "talkTitle": "Concurrent Prediction of Multiple Survival Outcomes with a Refined Stacking Algorithm"
             },
             {
                 "name": "Thomas Farrar",
@@ -482,10 +482,10 @@ const sessions = [
                 "affiliation": "University of Calgary",
                 "talkTitle": "Variable Selection for the Generalized Odds Rate Non-mixture Cure Model with interval-censored Data"
             },
-            {
-                "name": "Li Xing",
-                "affiliation": "University of Saskatchewan",
-                "talkTitle": "Concurrent Prediction of Multiple Survival Outcomes with a Refined Stacking Algorithm"
+           {
+                "name": "Tao Wang",
+                "affiliation": "University of Victoria",
+                "talkTitle": "Distributed Mode Learning"
             },
             {
                 "name": "Hua Liu",
