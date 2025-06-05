@@ -182,7 +182,7 @@ const sessions = [
     {
         "sessionTitle": "Causal Inference in Observational Studies",
         "invitedTalkSession": 7,
-        "chair": "TBA",
+        "chair": "Charlie (Haoxuan) Zhou",
         "organizedBy": null,
         "time": "Monday, June 23 13:30-15:10",
         "location": "HC1325",
