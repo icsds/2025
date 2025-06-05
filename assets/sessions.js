@@ -103,7 +103,7 @@ const sessions = [
                 "talkTitle": "Optimizing public health responses to the syndemic of substance use, overdose, HIV, and hepatitis C virus"
             },
             {
-                "name": "Alyssa Bilinski",
+                "name": "Shuo Feng",
                 "affiliation": "Brown University",
                 "talkTitle": "Living in a Parallel World? Difference-in-differences for infectious disease outcomes"
             },
