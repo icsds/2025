@@ -812,7 +812,7 @@ const sessions = [
     {
         "sessionTitle": "Contributed Session 3: Wednesday",
         "invitedTalkSession": null,
-        "chair": "TBA",
+        "chair": "Erin (Jiarui) Zhang",
         "organizedBy": null,
         "time": "Wednesday, June 25 13:30-15:10",
         "location": "HC1325",
