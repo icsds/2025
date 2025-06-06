@@ -598,9 +598,9 @@ const sessions = [
                 "talkTitle": "The stochastic behaviour of electricity prices under scrutiny: Evidence from spot and futures markets"
             },
             {
-                "name": "Himchan Jeong",
+                "name": "Hashan Peiris",
                 "affiliation": "Simon Fraser University",
-                "talkTitle": "Tweedie multivariate semi-parametric credibility with the exchangeable correlation"
+                "talkTitle": "Developing Telematics Safety Scores by Regulatory Compliance"
             },
             {
                 "name": "Shouxia Wang",
