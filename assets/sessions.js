@@ -858,7 +858,7 @@ const sessions = [
     {
         "sessionTitle": "High-Dimensional Data Analysis",
         "invitedTalkSession": 25,
-        "chair": "TBA",
+        "chair": "Renny Doig",
         "organizedBy": null,
         "time": "Wednesday, June 25 15:40-17:20",
         "location": "HC1315",
