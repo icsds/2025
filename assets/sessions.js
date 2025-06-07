@@ -832,20 +832,15 @@ const sessions = [
                 "affiliation": "Université Laval",
                 "talkTitle": "Selection of functional predictors and smooth coefficient estimation for scalar-on-function regression models"
             },
-            {
-                "name": "Ling Xue",
-                "affiliation": "The University of British Columbia-Okanagan",
-                "talkTitle": "Spline-based Gaussian Cluster-Weighted Models"
+                        {
+                "name": "Samir Arora",
+                "affiliation": "Simon Fraser University",
+                "talkTitle": "SPAFIT: Bayesian Empowered Parameter-Efficient Fine-Tuning Search and Model Training for LLMs"
             },
             {
                 "name": "Justin Holman",
                 "affiliation": "Colorado State University - Pueblo",
                 "talkTitle": "Teaching Multiple Regression: A Review"
-            },
-            {
-                "name": "Ruchi Singh Parihar",
-                "affiliation": "Christ University, India",
-                "talkTitle": "Numerical /statistical modeling: Impacts of extreme climate events on under the age of 5 year old children over india"
             },
             {
                 "name": "Saeed Aldahmani",
@@ -929,11 +924,6 @@ const sessions = [
                 "talkTitle": "Novel statistical methods for complex data analysis"
             },
             {
-                "name": "Samir Arora",
-                "affiliation": "Simon Fraser University",
-                "talkTitle": "SPAFIT: Bayesian Empowered Parameter-Efficient Fine-Tuning Search and Model Training for LLMs"
-            },
-            {
                 "name": "Thomas Thangarajah",
                 "affiliation": "University of Waterloo",
                 "talkTitle": "Analyzing Team Performance in Professional Sports using Singular Value Decomposition (SVD)"
@@ -948,11 +938,6 @@ const sessions = [
                 "affiliation": "Genentech Inc.",
                 "talkTitle": "Tolerance Intervals for Unbalanced Linear Mixed Models"
             },
-            {
-                "name": "Saadia Masood",
-                "affiliation": "PMAS-Arid Agriculture University Rawalpindi, Pakistan",
-                "talkTitle": "Estimation of the Finite Population Median Using Robust Auxiliary Variable Measures"
-            }         
         ]
     }
 ],
