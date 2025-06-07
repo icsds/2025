@@ -363,9 +363,9 @@ const sessions = [
                 "talkTitle": "Comparative Analysis of Privacy in Sampling Methods"
             },
             {
-                "name": "Guilherme Lopes de Oliveira",
-                "affiliation": "McGill University and Federal Center for Technological Education of Minas Gerais (CEFET-MG), Brazil",
-                "talkTitle": "Addressing Underregistration in Epidemiological Data: A Bayesian Random-Censoring Poisson-Logistic Model"
+                "name": "Sankhapali Polgolla",
+                "affiliation": "University of Calgary",
+                "talkTitle": "Identifiability and a Robust Estimation of Semiparametric Location-Scale Mixture Models"
             },
              {
                 "name": "Deepak Prajapati",
@@ -942,11 +942,6 @@ const sessions = [
                 "name": "Danny Santano",
                 "affiliation": "The University of British Columba, Okanagan",
                 "talkTitle": "Detecting Financial Market Crashes with Density Ratio Estimation: A Sliding Window Approach for Distribution Shift Analysis"
-            },
-             {
-                "name": "Sankhapali Polgolla",
-                "affiliation": "University of Calgary",
-                "talkTitle": "Identifiability and a Robust Estimation of Semiparametric Location-Scale Mixture Models"
             },
             {
                 "name": "Cristian Oliva Aviles",
