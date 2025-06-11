@@ -898,6 +898,11 @@ const sessions = [
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Allele-frequency estimation and ancestry informative marker identification via retrospective regression"
             },
+               {
+                "name": "Yi Xiong",
+                "affiliation": "State University of New York at Buffalo",
+                "talkTitle": "Mitigating Bias in Analyzing Privacy-Preserved Survival Data"
+            },
             {
                 "name": "Jingxue Feng",
                 "affiliation": "Simon Fraser University",
