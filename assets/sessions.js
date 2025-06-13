@@ -135,7 +135,7 @@ const sessions = [
             {
                 "name": "Trevor Campbell",
                 "affiliation": "University of British Columbia",
-                "talkTitle": "Embracing the Chaos: Analysis and Diagnosis of Numerical Instability in Variational Flows"
+                "talkTitle": "Asymptotically Exact Variational Inference via Involutive Iterated Random Functions"
             },
             {
                 "name": "Owen Ward",
