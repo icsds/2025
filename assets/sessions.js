@@ -348,9 +348,9 @@ const sessions = [
                 "talkTitle": "Learning from a Biased Sample"
             },
             {
-                "name": "Sadra Nejati",
-                "affiliation": "University of British Columbia",
-                "talkTitle": "Adjustable Robust Optimization Reformulations for Support Vector Machines"
+                "name": "Guilherme Lopes de Oliveira",
+                "affiliation": "McGill University and Federal Center for Technological Education of Minas Gerais (CEFET-MG), Brazil",
+                "talkTitle": "Addressing Underregistration in Epidemiological Data: A Bayesian Random-Censoring Poisson-Logistic Model"
             },
             {
                 "name": "Edward Yalley",
@@ -836,6 +836,11 @@ const sessions = [
                 "name": "Samir Arora",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "SPAFIT: Bayesian Empowered Parameter-Efficient Fine-Tuning Search and Model Training for LLMs"
+            },
+{
+                "name": "Sadra Nejati",
+                "affiliation": "University of British Columbia",
+                "talkTitle": "Adjustable Robust Optimization Reformulations for Support Vector Machines"
             },
             {
                 "name": "Justin Holman",
