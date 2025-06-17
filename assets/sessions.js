@@ -258,7 +258,7 @@ const sessions = [
                 "talkTitle": "Rethinking Regression: Insights from Machine Learning"
             },
             {
-                "name": "John Thompson",
+                "name": "Jesse Ghashti",
                 "affiliation": "University of British Columbia, Okanagan",
                 "talkTitle": "Mixed-type fuzzy clustering using kernel distance metrics"
             },
