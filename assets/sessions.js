@@ -698,11 +698,6 @@ const sessions = [
         "location": "HC1315",
         "speakers": [
             {
-                "name": "Dengdeng Yu",
-                "affiliation": "University of Texas at San Antonio",
-                "talkTitle": "Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving"
-            },
-            {
                 "name": "Clara Xing Wang",
                 "affiliation": "Illinois State University",
                 "talkTitle": "Multi-output Extreme Spatial Model for Complex Production Systems"
@@ -716,6 +711,11 @@ const sessions = [
                 "name": "Jiatao Zhong and Xiaoping Shi",
                 "affiliation": "University of British Columbia-Okanagan",
                 "talkTitle": "Energy-based segmentation methods for non-Gaussian noised images"
+            },
+            {
+                "name": "Dengdeng Yu (Zoom Talk)",
+                "affiliation": "University of Texas at San Antonio",
+                "talkTitle": "Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving"
             }
         ]
     },
