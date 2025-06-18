@@ -623,11 +623,6 @@ const sessions = [
         "location": "HC1315",
         "speakers": [
             {
-                "name": "Rajitha Senanayake",
-                "affiliation": "McMaster University",
-                "talkTitle": "repSpat – A Nonparametric Framework for Repeated Spatial Clustering"
-            },
-            {
                 "name": "Louis Arsenault-Mahjoubi",
                 "affiliation": "Simon Fraser University",
                 "talkTitle": "Computational methods for deterministic nonlinear non-Gaussian filtering in finance"
@@ -656,6 +651,11 @@ const sessions = [
                 "name": "Kavita Rathod",
                 "affiliation": "Veer Narmad Souith Gujarat University, Surat,India",
                 "talkTitle": "Estimation of regression coefficients for finite population under two stage sampling"
+            },
+            {
+                "name": "Rajitha Senanayake (Zoom Talk)",
+                "affiliation": "McMaster University",
+                "talkTitle": "repSpat – A Nonparametric Framework for Repeated Spatial Clustering"
             }
         ]
     },
