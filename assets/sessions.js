@@ -103,11 +103,6 @@ const sessions = [
                 "talkTitle": "Optimizing public health responses to the syndemic of substance use, overdose, HIV, and hepatitis C virus"
             },
             {
-                "name": "Shuo Feng",
-                "affiliation": "Brown University",
-                "talkTitle": "Living in a Parallel World? Difference-in-differences for infectious disease outcomes"
-            },
-            {
                 "name": "Divya Shanmugam",
                 "affiliation": "Cornell Tech",
                 "talkTitle": "When Coverage Drives Care: The Public Health Consequences of Insurance Design"
@@ -116,6 +111,11 @@ const sessions = [
                 "name": "Aishwarya Mandyam",
                 "affiliation": "Stanford University",
                 "talkTitle": "Adaptive Interventions with User-Defined Goals for Health Behavior Change"
+            },
+            {
+                "name": "Shuo Feng (Zoom Talk)",
+                "affiliation": "Brown University",
+                "talkTitle": "Living in a Parallel World? Difference-in-differences for infectious disease outcomes"
             }
         ]
     },
