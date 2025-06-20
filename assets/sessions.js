@@ -929,11 +929,6 @@ const sessions = [
                 "talkTitle": "Platt's scaling for calibration after undersampling—limitations and how to address them"
             },
             {
-                "name": "Jiatao Zhong",
-                "affiliation": "University of British Columbia, Okanagan",
-                "talkTitle": "Novel statistical methods for complex data analysis"
-            },
-            {
                 "name": "Thomas Thangarajah",
                 "affiliation": "University of Waterloo",
                 "talkTitle": "Analyzing Team Performance in Professional Sports using Singular Value Decomposition (SVD)"
