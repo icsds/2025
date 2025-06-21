@@ -649,7 +649,7 @@ const sessions = [
             },
             {
                 "name": "Kavita Rathod",
-                "affiliation": "Veer Narmad Souith Gujarat University, Surat,India",
+                "affiliation": "Veer Narmad South Gujarat University, Surat, India",
                 "talkTitle": "Estimation of regression coefficients for finite population under two stage sampling"
             },
             {
