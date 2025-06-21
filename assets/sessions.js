@@ -483,12 +483,12 @@ const sessions = [
                 "talkTitle": "Variable Selection for the Generalized Odds Rate Non-mixture Cure Model with interval-censored Data"
             },
            {
-                "name": "Tao Wang",
+                "name": "Tao Wang (Zoom Talk)",
                 "affiliation": "University of Victoria",
                 "talkTitle": "Distributed Mode Learning"
             },
             {
-                "name": "Hua Liu",
+                "name": "Hua Liu (Zoom Talk)",
                 "affiliation": "Xi'an Jiaotong University",
                 "talkTitle": "Similarity-Informed Transfer Learning for Multivariate Functional Censored Quantile Regression"
             }
