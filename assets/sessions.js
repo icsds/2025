@@ -443,7 +443,7 @@ const sessions = [
         "location": "HC1315",
         "speakers": [
             {
-                "name": "Thierry Chekouo Tekougang",
+                "name": "Thierry Chekouo Tekougang (Zoom Talk)",
                 "affiliation": "University of Minnesota",
                 "talkTitle": "A non-parametric Integrative Bayesian Approach for Variable Selection and Prediction"
             },
