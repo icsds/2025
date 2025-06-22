@@ -488,7 +488,7 @@ const sessions = [
                 "talkTitle": "Distributed Mode Learning"
             },
             {
-                "name": "Hua Liu (Zoom Talk)",
+                "name": "Hua Liu, Jiaqi Men, Shouxia Wang, Jinhong You, and Jiguo Cao (Speaking) ",
                 "affiliation": "Xi'an Jiaotong University",
                 "talkTitle": "Similarity-Informed Transfer Learning for Multivariate Functional Censored Quantile Regression"
             }
