@@ -198,14 +198,14 @@ const sessions = [
                 "talkTitle": "Propensity Score Matching: should we use it in designing observational studies?"
             },
             {
-                "name": "Jianghu(James) Dong",
-                "affiliation": "University of Nebraska Medical Center",
-                "talkTitle": "Dynamic Biomarker Regime Switches in Personalized Treatment Strategies"
-            },
-            {
                 "name": "Yidong Zhou",
                 "affiliation": "UC Davis",
                 "talkTitle": "Geodesic Causal Inference"
+            },
+            {
+                "name": "Hua Liu, Jiaqi Men, Shouxia Wang, Jinhong You, and Jiguo Cao (Speaking) ",
+                "affiliation": "Simon Fraser University",
+                "talkTitle": "Similarity-Informed Transfer Learning for Multivariate Functional Censored Quantile Regression"
             }
         ]
     },
@@ -482,16 +482,16 @@ const sessions = [
                 "affiliation": "University of Calgary",
                 "talkTitle": "Variable Selection for the Generalized Odds Rate Non-mixture Cure Model with interval-censored Data"
             },
+            {
+                "name": "Jianghu(James) Dong",
+                "affiliation": "University of Nebraska Medical Center",
+                "talkTitle": "Dynamic Biomarker Regime Switches in Personalized Treatment Strategies"
+            },
            {
                 "name": "Tao Wang (Zoom Talk)",
                 "affiliation": "University of Victoria",
                 "talkTitle": "Distributed Mode Learning"
-            },
-            {
-                "name": "Hua Liu, Jiaqi Men, Shouxia Wang, Jinhong You, and Jiguo Cao (Speaking) ",
-                "affiliation": "Simon Fraser University",
-                "talkTitle": "Similarity-Informed Transfer Learning for Multivariate Functional Censored Quantile Regression"
-            }
+            }            
         ]
     },
     {
