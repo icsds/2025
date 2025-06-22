@@ -489,7 +489,7 @@ const sessions = [
             },
             {
                 "name": "Hua Liu, Jiaqi Men, Shouxia Wang, Jinhong You, and Jiguo Cao (Speaking) ",
-                "affiliation": "Xi'an Jiaotong University",
+                "affiliation": "Simon Fraser University",
                 "talkTitle": "Similarity-Informed Transfer Learning for Multivariate Functional Censored Quantile Regression"
             }
         ]
