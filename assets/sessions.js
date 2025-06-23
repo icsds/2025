@@ -62,7 +62,7 @@ const sessions = [
     {
         "sessionTitle": "Emerging Methods in Survival and Longitudinal Data Analysis",
         "invitedTalkSession": 3,
-        "chair": "Jianghu Dong",
+        "chair": "Yiming Tang",
         "organizedBy": "Jianghu Dong",
         "time": "Monday, June 23 10:00-11:40",
         "location": "HC1325",
