@@ -619,7 +619,7 @@ const sessions = [
         "invitedTalkSession": null,
         "chair": "Matthew Parker",
         "organizedBy": null,
-        "time": "Tuesday, June 24 15:40-17:20",
+        "time": "Tuesday, June 24 15:40-17:25",
         "location": "HC1315",
         "speakers": [
             {
@@ -814,7 +814,7 @@ const sessions = [
         "invitedTalkSession": null,
         "chair": "Erin (Jiarui) Zhang",
         "organizedBy": null,
-        "time": "Wednesday, June 25 13:30-15:10",
+        "time": "Wednesday, June 25 13:30-15:15",
         "location": "HC1325",
         "speakers": [
             {
@@ -920,7 +920,7 @@ const sessions = [
         "invitedTalkSession": null,
         "chair": "Muye Nanshan",
         "organizedBy": null,
-        "time": "Wednesday, June 25 15:40-17:20",
+        "time": "Wednesday, June 25 15:40-16:40",
         "location": "HC1325",
         "speakers": [
             {
