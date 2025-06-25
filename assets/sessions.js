@@ -651,11 +651,6 @@ const sessions = [
                 "name": "Kavita Rathod",
                 "affiliation": "Veer Narmad South Gujarat University, Surat, India",
                 "talkTitle": "Estimation of regression coefficients for finite population under two stage sampling"
-            },
-            {
-                "name": "Rajitha Senanayake (Zoom Talk)",
-                "affiliation": "McMaster University",
-                "talkTitle": "repSpat – A Nonparametric Framework for Repeated Spatial Clustering"
             }
         ]
     },
@@ -943,6 +938,11 @@ const sessions = [
                 "affiliation": "Genentech Inc.",
                 "talkTitle": "Tolerance Intervals for Unbalanced Linear Mixed Models"
             },
+            {
+                "name": "Rajitha Senanayake (Zoom Talk)",
+                "affiliation": "McMaster University",
+                "talkTitle": "repSpat – A Nonparametric Framework for Repeated Spatial Clustering"
+            }
         ]
     }
 ],
