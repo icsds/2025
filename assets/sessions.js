@@ -768,7 +768,7 @@ const sessions = [
                 "talkTitle": "Causal machine learning methods and sequential target trial emulation for dynamic and static treatment strategies deprescribing medications in a polypharmacy population using electronic health records."
             },
               {
-                "name": "Piaomu Liu",
+                "name": "Tony Ng (Speaking) and Piaomu Liu",
                 "affiliation": "Bentley University",
                 "talkTitle": "Analyzing Organizational Risks and Responses to Data Breaches"
             }
