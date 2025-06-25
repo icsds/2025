@@ -915,7 +915,7 @@ const sessions = [
         "invitedTalkSession": null,
         "chair": "Muye Nanshan",
         "organizedBy": null,
-        "time": "Wednesday, June 25 15:40-16:40",
+        "time": "Wednesday, June 25 15:40-16:55",
         "location": "HC1325",
         "speakers": [
             {
